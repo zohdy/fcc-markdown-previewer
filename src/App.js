@@ -54,7 +54,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className="title">Markup Previewer</h1>
+      <h1 className="title">Markdown Previewer</h1>
       <div className="content-wrapper">
         <MarkedInputField
           handleUserInput={handleUserInput}
